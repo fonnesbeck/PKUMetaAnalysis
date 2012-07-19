@@ -5,3 +5,6 @@ LaTeX
 *.blg
 *.gz
 *.pyc
+*.zip
+*.fdb_latexmk
+*.pages
