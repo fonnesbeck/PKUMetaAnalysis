@@ -1,10 +1,13 @@
 Dear Dr. Peters,
 
-Thank you for your timely review of our manuscript *Estimating the probability of IQ impairment from blood phenylalanine for phenylketonuria patients: A hierarchical meta-analysis*. We appreciate the feedback from each of the reviewers, and feel that the resulting changes have strengthened our paper. As requested, we have addressed each of the comments in turn, and you will find a list of our responses below. Our responses appear below each of the issues, in distinct formatting so that they may easily be distinguished by you and the reviewers. Please re-evaluate our paper in light of these changes.
+Thank you for your timely review of our manuscript *Estimating the probability of IQ impairment from blood phenylalanine for phenylketonuria patients: A hierarchical meta-analysis*. We appreciate the feedback from each of the reviewers, and feel that the resulting changes have strengthened our paper. As requested, we have addressed each of the comments in turn, and you will find a list of our responses accompanying this leter. Our responses appear below each of the issues, in distinct formatting so that they may easily be distinguished by you and the reviewers. Please re-evaluate our paper in light of these changes.
 
 Best regards,
 
 Christopher J. Fonnesbeck
+<br>Department of Biostatistics
+<br>Vanderbilt University School of Medicine
+<br>Nashville, TN
 
 ---
 
